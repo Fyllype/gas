@@ -10,4 +10,8 @@ O arquivo a ser executado é um exercício do módulo 19 da EBAC, nele está con
 <h3>Pacotes Utilizados</h3>
 
 1. [Pandas](https://pandas.pydata.org/)
+<<<<<<< HEAD
 2. [Seaborn](https://seaborn.pydata.org/)
+=======
+2. [Seaborn](https://seaborn.pydata.org/)
+>>>>>>> 879b9888fb1f097dbde619c938ca5c17d227fa66
