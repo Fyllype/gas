@@ -1,4 +1,4 @@
-# Modulo 19 da EBAC
+# Modulo 19 e 20 da EBAC
 O arquivo a ser executado é um exercício do módulo 19 da EBAC, nele está contido um código simples para aprendermos a implantar futuros códigos na plataforma do GITHUB. 
 
 1. Utilizamos os métodos de autenticação no github
